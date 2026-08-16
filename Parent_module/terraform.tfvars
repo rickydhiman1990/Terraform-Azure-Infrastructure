@@ -18,7 +18,7 @@ rg = {
 
     name     = "princerg3"
     location = "centralindia"
-
+    }
     
     rg4 = {
 
