@@ -104,7 +104,7 @@ vm = {
     o_admin_password       = "Password1234!"
 
   }
-  machine2 = {
+  machine2 = {   #new vm is created here with all the required parameters
 
     vm_nicname             = "testnic2"
     vm_name                = "defender2"
