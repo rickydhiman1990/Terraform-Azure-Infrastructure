@@ -27,6 +27,13 @@ rg = {
     #new rg 4 added here 
 
   }
+  rg5 = {
+
+    name     = "princerg5"
+    location = "centralindia"
+    #new rg 5 added here 
+
+  }
 }
 
 vnet = {
