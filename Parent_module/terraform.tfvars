@@ -24,6 +24,7 @@ rg = {
 
     name     = "princerg4"
     location = "centralindia"
+    #new rg 4 added here 
 
   }
 }
