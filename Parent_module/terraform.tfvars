@@ -104,4 +104,24 @@ vm = {
     o_admin_password       = "Password1234!"
 
   }
+  machine2 = {
+
+    vm_nicname             = "testnic2"
+    vm_name                = "defender2"
+    vm_location            = "centralindia"
+    vm_resource_group_name = "princerg1"
+    vm_size                = "Standard_D2s_v3"
+    vm_publisher           = "Canonical"
+    vm_offer               = "0001-com-ubuntu-server-jammy"
+    vm_sku                 = "22_04-lts"
+    vm_version             = "latest"
+    s_name                 = "myosdisk2"
+    s_caching              = "ReadWrite"
+    s_create_option        = "FromImage"
+    s_managed_disk_type    = "Standard_LRS"
+    o_computer_name        = "hostname"
+    o_admin_username       = "testadmin"
+    o_admin_password       = "Password1234!"
+
+  }
 }
