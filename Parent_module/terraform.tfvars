@@ -13,6 +13,13 @@ rg = {
     location = "centralindia"
 
   }
+
+    rg3 = {
+
+    name     = "princerg3"
+    location = "centralindia"
+
+  }
 }
 
 vnet = {
