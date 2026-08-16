@@ -18,6 +18,13 @@ rg = {
 
     name     = "princerg3"
     location = "centralindia"
+    }
+    
+    rg4 = {
+
+    name     = "princerg4"
+    location = "centralindia"
+    #new rg 4 added here 
 
   }
 }
